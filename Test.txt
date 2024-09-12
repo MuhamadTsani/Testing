@@ -1,2 +1,8 @@
 #Base-BE
 Belajar Git adalah projek sederhana
+
+## Getting started
+to started must do:
+1. npm install
+2. setting config
+3. and running npm start or nodemon
